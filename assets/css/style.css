@@ -1,0 +1,16 @@
+body{
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background: url(../img/maxresdefault.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: rgb(221, 21, 55);
+    font-size: 1.5em;
+    font-weight: bolder;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-transform: uppercase;
+}
